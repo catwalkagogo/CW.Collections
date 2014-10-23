@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+		<id>CW.Collections</id>
+		<version>0.0.0</version>
+		<authors>catwalkagogo</authors>
+		<owners>catwalkagogo</owners>
+		<licenseUrl>https://github.com/catwalkagogo/CW.Collections/blob/master/LICENSE</licenseUrl>
+		<projectUrl>https://github.com/catwalkagogo/CW.Collections</projectUrl>
+		<iconUrl>https://avatars3.githubusercontent.com/u/9346206</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>A collection library.</description>
+		<releaseNotes></releaseNotes>
+		<copyright>Copyright 2014</copyright>
+		<tags></tags>
+		<dependencies>
+			<dependency id="CW.Core" version="0.1.0" />
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="CW.Collections\bin\Release\CW.Collections.dll" target="lib" />
+		<file src="CW.Collections\bin\Release\CW.Collections.pdb" target="lib" />
+	</files>
+</package>
